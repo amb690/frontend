@@ -1,3 +1,4 @@
+-- generic language
 language: generic
 
 sudo: required
